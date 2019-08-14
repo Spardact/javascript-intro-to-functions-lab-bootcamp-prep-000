@@ -1,5 +1,4 @@
 function shout(string) {
   return string.toUpperCase()
 }
-function whisper(string) {
-  return string.toLowerCase()
+describe('shout(string)', () => {"HELLO"})`
