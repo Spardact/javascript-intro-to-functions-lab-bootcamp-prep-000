@@ -2,5 +2,6 @@ function shout(string) {
   return string.toUpperCase()
 }
 function sayHiToGrandma() {
-  console.log
+  console.log("hello!")
+  return("i can/'t hear you!") 
 }
