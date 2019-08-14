@@ -9,3 +9,4 @@ function whisper(string) {
 function LogShout(string) {
   console.log('receives on argument and returns it in all caps')
 }
+var uppercase = "HELLO!"
